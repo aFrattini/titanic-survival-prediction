@@ -40,8 +40,8 @@ Los modelos exportados son utilizados en mi portfolio web para que los visitante
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/tu-usuario/titanic-prediction.git
-cd titanic-prediction
+git clone https://github.com/aFrattini/titanic-survival-prediction.git
+cd titanic-survival-prediction
 ```
 
 2. Instala las dependencias:
